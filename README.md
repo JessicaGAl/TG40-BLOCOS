@@ -1,2 +1,2 @@
 # TG40-BLOCOS
-Contém exercícios e projetos referentes aos blocos da Generation.
+Contains exercises and projects related to Generation blocks.
